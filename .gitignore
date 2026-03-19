@@ -1,0 +1,23 @@
+# Mac system files
+.DS_Store
+.DS_Store?
+._*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if you ever add build tools)
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+.env.local
