@@ -2,7 +2,7 @@
 
 > A mom lifestyle & affiliate blog — home finds, kids' favourites, self-care, fashion & everything in between.
 
-**Live Site:** [bloomingnbeyond.com](https://bloomingnbeyond.com)
+**Live Site:** [[bloomingnbeyond.com](https://bloomingnbeyond.com)](https://hackmommy99.github.io/bloomingnbeyond/)
 
 ---
 
