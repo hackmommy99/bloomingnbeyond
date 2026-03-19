@@ -1,15 +1,15 @@
-# 🌸 Blooming & Beyond
+# 🌸 Blooming N Beyond
 
 > A mom lifestyle & affiliate blog — home finds, kids' favourites, self-care, fashion & everything in between.
 
-**Live Site:** [bloomingandbeyond.com](https://bloomingandbeyond.com)
+**Live Site:** [bloomingnbeyond.com](https://bloomingnbeyond.com)
 
 ---
 
 ## 📁 Project Structure
 
 ```
-blooming-and-beyond/
+blooming-n-beyond/
 │
 ├── index.html              ← Homepage (main file)
 │
